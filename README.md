@@ -43,7 +43,6 @@ The dataset used in this project is the Heart Disease dataset, downloaded using 
 4. **Data Preprocessing**  
    - Handle missing values.
    - Feature selection.
-   - Encoding categorical variables if needed.
    - Split the data into training and test sets.
 
 5. **Model Building**  
